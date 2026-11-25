@@ -1,0 +1,41 @@
+id,title,description,category,brand,price,rating
+1,AeroBeat Pro Wireless Headphones,Over-ear Bluetooth headphones with active noise cancellation and 30 hour battery life. Great for travel and commuting.,Electronics,AeroBeat,149.99,4.6
+2,PulseBuds Lite Earbuds,Compact true wireless earbuds with water resistance and a charging case. Ideal for running and the gym.,Electronics,PulseBuds,59.00,4.2
+3,StudioMax Wired Headphones,Studio monitor headphones with flat sound for music production and mixing. Comfortable padded ear cups.,Electronics,StudioMax,89.50,4.4
+4,NovaBook Air 14 Laptop,Ultra-light 14 inch notebook with 16GB RAM and all-day battery. Perfect for students and remote work.,Electronics,Nova,899.00,4.5
+5,TitanForge Gaming Laptop,17 inch gaming notebook with dedicated graphics card and 144Hz display for fast-paced games.,Electronics,TitanForge,1499.00,4.7
+6,ClearView 27in 4K Monitor,27 inch 4K UHD monitor with accurate colors for photo editing and office productivity.,Electronics,ClearView,329.00,4.3
+7,TypeWave Mechanical Keyboard,Tactile mechanical keyboard with backlit keys and hot-swappable switches for typing and gaming.,Electronics,TypeWave,79.99,4.5
+8,GlideMouse Ergonomic Mouse,Vertical ergonomic wireless mouse that reduces wrist strain during long work days.,Electronics,Glide,34.99,4.1
+9,SnapShot X100 Mirrorless Camera,Compact mirrorless camera with 24MP sensor and 4K video for travel photography and vlogging.,Electronics,SnapShot,749.00,4.6
+10,BrightBeam LED Desk Lamp,Dimmable desk lamp with adjustable color temperature and USB charging port. Reduces eye strain while studying.,Home,BrightBeam,39.95,4.4
+11,FrostKeep Insulated Water Bottle,Stainless steel bottle that keeps drinks cold for 24 hours and hot for 12. Leak-proof lid for hiking and camping.,Outdoors,FrostKeep,27.00,4.8
+12,TrailMaster 45L Backpack,Lightweight hiking backpack with rain cover and breathable back panel for multi-day treks.,Outdoors,TrailMaster,119.00,4.6
+13,SummitLite 2-Person Tent,Waterproof backpacking tent that sets up in minutes. Light enough for long trail adventures.,Outdoors,SummitLite,189.00,4.3
+14,NightGlow Rechargeable Headlamp,Bright rechargeable headlamp with red light mode for camping or trail running and night fishing.,Outdoors,NightGlow,24.50,4.5
+15,CozyDream Sleeping Bag,Warm three-season sleeping bag for cold nights while camping. Packs down small.,Outdoors,CozyDream,69.00,4.2
+16,SwiftStride Running Shoes,Cushioned road running shoes with breathable mesh upper for daily training and marathons.,Sports,SwiftStride,110.00,4.5
+17,ZenFlow Yoga Mat,Non-slip eco-friendly yoga mat with extra cushioning for joints. Suitable for pilates and stretching.,Sports,ZenFlow,32.00,4.6
+18,IronCore Adjustable Dumbbells,Space-saving adjustable dumbbell set from 5 to 52 pounds for home strength training.,Sports,IronCore,299.00,4.7
+19,PedalPro Road Bike,Lightweight aluminium road bicycle with 21 speeds for commuting and weekend rides.,Sports,PedalPro,549.00,4.3
+20,SplashFit Swim Goggles,Anti-fog swimming goggles with UV protection and a comfortable silicone strap.,Sports,SplashFit,18.99,4.0
+21,BrewMaster Espresso Machine,Semi-automatic espresso maker with milk frother for cafe-style lattes and cappuccinos at home.,Kitchen,BrewMaster,259.00,4.4
+22,QuickPot Electric Kettle,Fast-boiling stainless steel kettle with auto shut-off for tea and coffee.,Kitchen,QuickPot,29.99,4.3
+23,CrispAir Digital Air Fryer,Large capacity air fryer that cooks crispy fries and chicken with little oil. Easy to clean.,Kitchen,CrispAir,89.00,4.6
+24,ChefEdge Knife Set,Sharp stainless steel kitchen knives with wooden block for slicing and dicing and chopping vegetables.,Kitchen,ChefEdge,74.00,4.5
+25,BlendWorks Smoothie Blender,Powerful blender for smoothies and protein shakes and crushing ice. Includes two portable cups.,Kitchen,BlendWorks,64.00,4.2
+26,IronSkillet Cast Iron Pan,Pre-seasoned cast iron skillet that retains heat for searing steaks and baking cornbread.,Kitchen,IronSkillet,35.00,4.7
+27,CloudRest Memory Foam Pillow,Contour memory foam pillow that supports the neck for side and back sleepers. Cooling cover.,Home,CloudRest,45.00,4.3
+28,SoftNest Weighted Blanket,15 pound weighted blanket that helps with relaxation and deeper sleep on restless nights.,Home,SoftNest,79.00,4.5
+29,PureAir HEPA Air Purifier,Quiet HEPA air purifier that removes dust and pollen and pet hair from bedrooms and living rooms.,Home,PureAir,139.00,4.4
+30,RoboSweep Robot Vacuum,Smart robot vacuum with mapping and app control. Cleans carpets and hard floors automatically.,Home,RoboSweep,279.00,4.2
+31,AromaMist Essential Oil Diffuser,Ultrasonic aromatherapy diffuser with soft ambient light. Fills a room with calming scents.,Home,AromaMist,26.00,4.4
+32,UrbanLoom Linen Bedding Set,Breathable linen duvet cover and pillowcases that stay cool in summer and soft after washing.,Home,UrbanLoom,129.00,4.6
+33,LittleScholar Wooden Puzzle Set,Educational wooden puzzles that build problem solving and motor skills for toddlers aged 2 to 4.,Toys,LittleScholar,22.00,4.7
+34,BrickBuilder 500 Piece Set,Creative building brick set with 500 pieces for kids aged 6 and up. Encourages imagination.,Toys,BrickBuilder,39.00,4.6
+35,RoboPal Coding Robot,Programmable robot toy that teaches children the basics of coding through games.,Toys,RoboPal,89.00,4.3
+36,ParkPlay Kids Scooter,Foldable three-wheel scooter with adjustable handle for young children learning to ride.,Toys,ParkPlay,49.00,4.4
+37,PageTurner E-Reader,Glare-free e-ink reader with weeks of battery life and adjustable warm light for reading in bed.,Electronics,PageTurner,119.00,4.6
+38,HomeGuard Smart Doorbell Camera,Wi-Fi video doorbell with motion alerts and two-way audio for home security.,Electronics,HomeGuard,99.00,4.1
+39,PowerHub 20000mAh Power Bank,High capacity portable charger with fast charging for phones and tablets while traveling.,Electronics,PowerHub,35.00,4.5
+40,SoundCube Portable Bluetooth Speaker,Waterproof portable speaker with deep bass and 12 hour playtime for beach and pool parties.,Electronics,SoundCube,55.00,4.4

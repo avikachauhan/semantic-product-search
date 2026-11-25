@@ -1,0 +1,7 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+fastapi>=0.110
+uvicorn>=0.29
+# Optional but recommended: real neural embeddings (much better semantics)
+# sentence-transformers>=2.7
